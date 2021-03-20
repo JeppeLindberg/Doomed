@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Tile1.png-ded932a3cd3dead5a99d8ca57696c0d0.image"
+
+[deps]
+
+source_file="res://image/Tile1.png"
+dest_files=[ "res://.import/Tile1.png-ded932a3cd3dead5a99d8ca57696c0d0.image" ]
+
+[params]
+
